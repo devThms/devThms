@@ -4,12 +4,12 @@ I'm a 28-year-old web developer from the Guatemalan Republic, who loves open sou
 
 ## Quick overview
 * GitHub stats:  
-<a href="https://github.com/intelguasoft/github-readme-stats">
+<a href="https://github.com/devThms/github-readme-stats">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=intelguasoft" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=devThms" />
 </a>
-<a href="https://github.com/intelguasoft/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=intelguasoft&show_icons=true&line_height=27" alt="My github stats" />
+<a href="https://github.com/devThms/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=devThms&show_icons=true&line_height=27" alt="My github stats" />
 </a>  
 
  (also from a project I'm contributing to, [devThms/github-readme-stats](https://github.com/devThms/github-readme-stats)
