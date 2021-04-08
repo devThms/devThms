@@ -25,7 +25,7 @@ export class Info {
   languages: Record<string, string>[] = [
                              { 'Spanish': 'native' }, 
                              { 'English': 'Reading' }, 
-  school: string = 'Francisco Marroquín'
+  school: string = 'Universidad Mariano Galvez de Guatemala'
   occupation: string = 'Web Developer and Designer, Student'
   freetime: string[] = ['Learning', 'Reading', 'Share the acquired knowledge and make the life of the systems students easier']
   musical_interest_years: number[] = [70, 80, 90]
@@ -34,14 +34,14 @@ export class Info {
 
 export class Programming {
 
-  languages: string[] = ['TypeScript', 'JavaScript', 'PHP']
-  stylesheets: string[] = ['CSS', 'SASS', 'SCSS', 'Stylus']
-  frameworks: string[] = ['Laravel', 'Livewire', 'Vue', 'Svelte', 'Angular', 'ElectronJS']
-  runtimes: string[] = ['Deno', 'Node']
-  databases: string[] = ['MySQL', 'SQL Server', 'Oracle', 'RethinkDB', 'Mongo', 'SQLite']
-  learning: string[] = ['React', 'Rust', 'Go', 'Dart', 'BlackHat Hacking']
-  projects: string[] = ['Lottery', 'WASO', 'Inventory', 'Inventory Smart', 'OpenAPI Skool']
-  misc: ['Firebase', 'Socket.IO', 'selenium', 'open-cv']
+  languages: string[] = ['TypeScript', 'JavaScript', 'PHP', 'C#']
+  stylesheets: string[] = ['CSS', 'SASS']
+  frameworks: string[] = ['Laravel', 'Livewire', 'Angular', 'Ionic']
+  runtimes: string[] = ['Node']
+  databases: string[] = ['MySQL', 'SQL Server', 'Oracle', 'Mongo', 'SQLite']
+  learning: string[] = ['React', 'React-Native', 'JAVA', 'Dart']
+  projects: string[] = ['Elections-API', 'WASO', 'Kardex', 'Watermeter-API']
+  misc: ['Firebase', 'Socket.IO']
 
 }
 
