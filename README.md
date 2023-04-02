@@ -1,6 +1,6 @@
 # Hi everyone :wave:
 
-I'm a 29-year-old web developer from the Guatemalan Republic, who loves open source.
+I'm a 30-year-old web developer from the Guatemalan Republic, who loves open source.
 
 ## Quick overview
 * GitHub stats:  
@@ -20,13 +20,13 @@ I'm a 29-year-old web developer from the Guatemalan Republic, who loves open sou
 export class Info {
 
   name: string = 'Tomás Eduardo Jiménez C.'
-  age: number = 28
+  age: number = 30
   nationality: string[] = ['Guatemalan']
   languages: Record<string, string>[] = [
                              { 'Spanish': 'native' }, 
                              { 'English': 'Reading' }, 
   school: string = 'Universidad Mariano Galvez de Guatemala'
-  occupation: string = 'Web Developer and Designer, Student'
+  occupation: string = 'Web Developer and Project Management, Student for Ever'
   freetime: string[] = ['Learning', 'Reading', 'Share the acquired knowledge and make the life of the systems students easier']
   musical_interest_years: number[] = [70, 80, 90]
 
@@ -36,11 +36,12 @@ export class Programming {
 
   languages: string[] = ['TypeScript', 'JavaScript', 'PHP', 'C#']
   stylesheets: string[] = ['CSS', 'SASS']
-  frameworks: string[] = ['Laravel', 'Livewire', 'Angular', 'Ionic']
+  frameworks frontend: string[] = ['Livewire', 'Angular', 'Ionic']
+  frameworks backend: string[] = ['Laravel', 'NestJs', 'Express', 'Entity Framework']
   runtimes: string[] = ['Node']
-  databases: string[] = ['MySQL', 'SQL Server', 'Oracle', 'Mongo', 'SQLite']
-  learning: string[] = ['React', 'React-Native', 'JAVA', 'Dart']
-  projects: string[] = ['Elections-API', 'WASO', 'Kardex', 'Watermeter-API']
+  databases: string[] = ['MySQL', 'SQL Server', 'Mongo', 'SQLite']
+  learning: string[] = ['React', 'React-Native', 'JAVA', 'Dart', 'Phyton']
+  projects: string[] = ['Elections App', 'WASO', 'Kardex WMS', 'Watermeter Regional']
   misc: ['Firebase', 'Socket.IO']
 
 }
