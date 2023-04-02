@@ -26,7 +26,7 @@ export class Info {
                              { 'Spanish': 'native' }, 
                              { 'English': 'Reading' }, 
   school: string = 'Universidad Mariano Galvez de Guatemala'
-  occupation: string = 'Web Developer and Project Management, Student for Ever'
+  occupation: string = 'Software Developer and Project Management, Student for Ever'
   freetime: string[] = ['Learning', 'Reading', 'Share the acquired knowledge and make the life of the systems students easier']
   musical_interest_years: number[] = [70, 80, 90]
 
@@ -40,7 +40,7 @@ export class Programming {
   frameworks backend: string[] = ['Laravel', 'NestJs', 'Express', 'Entity Framework']
   runtimes: string[] = ['Node']
   databases: string[] = ['MySQL', 'SQL Server', 'Mongo', 'SQLite']
-  learning: string[] = ['React', 'React-Native', 'JAVA', 'Dart', 'Phyton']
+  learning: string[] = ['React', 'Dart', 'Phyton', 'Data Analytics']
   projects: string[] = ['Elections App', 'WASO', 'Kardex WMS', 'Watermeter Regional']
   misc: ['Firebase', 'Socket.IO']
 
